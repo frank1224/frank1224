@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 <h1 align="center">Hello ✌ I'm Frank</h1>
 <h3 align="center">Backend developer and passionate about computing</h3>
 
-- I’m currently learning **Python**
+- Master's student in Cybersecurity at U-tad
+- Currently learning Python
 
 <p align="left">
 </p>
