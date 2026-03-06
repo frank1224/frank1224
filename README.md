@@ -10,7 +10,7 @@
 ## 👤 About Me
 
 - 🎓 Master's student in **Cybersecurity** at **U-TAD (Madrid)**
-- 💼 Backend Developer with **5+ years** of enterprise experience (Java / Spring Boot)
+- 💼 Backend Developer (Java / Spring Boot)
 - 🎯 Transitioning into **Application Security (AppSec) & Pentesting**
 - 🌱 Currently studying: **Web Hacking · Application Security · Network Security · Mobile Security**
 - 🧠 Learning: **Python · Go · Offensive Security**
