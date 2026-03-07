@@ -26,7 +26,6 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://go.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></a>
 </p>
 
@@ -57,13 +56,23 @@
 
 ## 🔐 Cybersecurity
 
-<h4>Offensive & Pentesting Tools</h4>
+<h4>Offensive & Web Tools</h4>
 <p>
-  <a href="https://www.kali.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="kali" width="40" height="40"/></a>
-  <a href="https://portswigger.net/burp" target="_blank"><img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="burpsuite"/></a>
-  <a href="https://nmap.org/" target="_blank"><img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white" alt="nmap"/></a>
-  <a href="https://www.metasploit.com/" target="_blank"><img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="metasploit"/></a>
-  <a href="https://www.wireshark.org/" target="_blank"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="wireshark"/></a>
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="kali"/>
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="burpsuite"/>
+  <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white" alt="nmap"/>
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="metasploit"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="wireshark"/>
+  <img src="https://img.shields.io/badge/SQLmap-CC0000?style=for-the-badge&logo=databricks&logoColor=white" alt="sqlmap"/>
+  <img src="https://img.shields.io/badge/Gobuster-333333?style=for-the-badge&logo=gnubash&logoColor=white" alt="gobuster"/>
+</p>
+
+<h4>Mobile & Reverse Engineering</h4>
+<p>
+  <img src="https://img.shields.io/badge/Frida-6C3483?style=for-the-badge&logo=frida&logoColor=white" alt="frida"/>
+  <img src="https://img.shields.io/badge/JADX-2C3E50?style=for-the-badge&logo=android&logoColor=white" alt="jadx"/>
+  <img src="https://img.shields.io/badge/ADB-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="adb"/>
+  <img src="https://img.shields.io/badge/ExifTool-FF9900?style=for-the-badge&logo=files&logoColor=white" alt="exiftool"/>
 </p>
 
 <h4>Platforms & Practice</h4>
@@ -78,20 +87,13 @@
 ![AppSec](https://img.shields.io/badge/Application%20Security-red?style=flat-square)
 ![Web Pentesting](https://img.shields.io/badge/Web%20Pentesting-orange?style=flat-square)
 ![OWASP Top 10](https://img.shields.io/badge/OWASP%20Top%2010-blue?style=flat-square)
-![Digital Forensics](https://img.shields.io/badge/Digital%20Forensics-purple?style=flat-square)
+![Mobile Security](https://img.shields.io/badge/Mobile%20Security-purple?style=flat-square)
 ![Network Security](https://img.shields.io/badge/Network%20Security-darkblue?style=flat-square)
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=frank1224&show_icons=true&theme=tokyonight&locale=en" alt="frank1224 stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=frank1224&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="frank1224 top langs" />
-</p>
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=frank1224&theme=tokyonight" alt="frank1224 streak" />
 </p>
 
