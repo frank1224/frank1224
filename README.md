@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋 I'm Frank</h1>
-<h3 align="center">Backend Developer · Cybersecurity Enthusiast · Breaking things to understand them</h3>
+<h3 align="center">Backend Developer · Cybersecurity Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Backend+Developer+%7C+Java+%2F+Spring+Boot;Cybersecurity+Student+%40+U-TAD;AppSec+%7C+Pentesting+%7C+Bug+Hunter;Always+learning%2C+always+breaking+things." alt="Typing SVG" />
@@ -98,7 +98,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <i>"Breaking things to understand them. Understanding them to secure them."</i>
-</p>
