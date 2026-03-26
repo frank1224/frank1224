@@ -80,6 +80,7 @@
   <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="tryhackme"/>
   <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="hackthebox"/>
   <img src="https://img.shields.io/badge/PortSwigger%20Web%20Academy-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="portswigger"/>
+   <img src="https://img.shields.io/badge/TheHackersLabs-1a1a2e?style=for-the-badge&logo=hackthebox&logoColor=00FF41" alt="thehackerslabs"/>
 </p>
 
 <h4>Focus Areas</h4>
