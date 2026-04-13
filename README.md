@@ -92,9 +92,31 @@
 ![Network Security](https://img.shields.io/badge/Network%20Security-darkblue?style=flat-square)
 
 ---
+## 🚀 Featured Projects
+
+### 🔐 Security Tools
+
+| Project | Description | Stack | Status |
+| ------- | ----------- | ----- | :----: |
+| [CiberFeed](https://github.com/frank1224/CiberFeed) | Cybersecurity news feed aggregator with authentication and session management | Go, Chi, PostgreSQL, Docker | 🔄 In Progress |
+| [GoProxy](https://github.com/frank1224/GoProxy) | Custom proxy tool for traffic analysis and interception | Go | 📅 Planned |
+
+### 🏴‍☠️ CTF Writeups
+
+| Plataforma | Writeups | Repo |
+| ---------- | :------: | ---- |
+| PortSwigger Web Security Academy | 0 | [ctf-writeups/PortSwigger](https://github.com/frank1224/ctf-writeups/tree/main/PortSwigger) |
+| HackTheBox | 0 | [ctf-writeups/HackTheBox](https://github.com/frank1224/ctf-writeups/tree/main/HackTheBox) |
+| TryHackMe | 0 | [ctf-writeups/TryHackMe](https://github.com/frank1224/ctf-writeups/tree/main/TryHackMe) |
+| TheHackersLabs | 0 | [ctf-writeups/TheHackersLabs](https://github.com/frank1224/ctf-writeups/tree/main/TheHackersLabs) |
+| APIs | 0 | [ctf-writeups/APIs](https://github.com/frank1224/ctf-writeups/tree/main/APIs) |
+| Mobile | 0 | [ctf-writeups/Mobile](https://github.com/frank1224/ctf-writeups/tree/main/Mobile) |
+
+> 📖 Writeups con análisis de vulnerabilidad, evidencia HTTP, PoC automatizado en Python y mitigación → [**ctf-writeups**](https://github.com/frank1224/ctf-writeups)
 
 ## 📊 GitHub Stats
 
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=frank1224&theme=tokyonight" alt="frank1224 streak" />
 </p>
 
