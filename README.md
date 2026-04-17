@@ -85,6 +85,17 @@
 
 > 📖 Writeups con análisis de vulnerabilidad, evidencia HTTP, PoC automatizado en Python y mitigación → [**ctf-writeups**](https://github.com/frank1224/ctf-writeups)
 
+## 🏅 Certifications
+
+| Certification | Status |
+| ------------- | ------ |
+| eJPT (eLearnSecurity Junior Penetration Tester) | ✅ |
+| BSCP (Burp Suite Certified Practitioner) | 📅 Planned |
+
+---
+
+
+
 ## 📊 GitHub Stats
 
 <p align="center">
