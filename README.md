@@ -91,6 +91,7 @@
 | ------------- | ------ |
 | eJPT (eLearnSecurity Junior Penetration Tester) | ✅ |
 | BSCP (Burp Suite Certified Practitioner) | 📅 Planned |
+| CWES (HTB Certified Web Exploitation Specialist) | 📅 Planned |
 
 ---
 
