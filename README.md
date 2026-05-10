@@ -69,8 +69,8 @@
 
 | Project | Description | Stack | Status |
 | ------- | ----------- | ----- | :----: |
-| [CiberFeed](https://github.com/frank1224/CiberFeed) | Cybersecurity news feed aggregator with authentication and session management | Go, Chi, PostgreSQL, Docker | 🔄 In Progress |
-| [GoProxy](https://github.com/frank1224/GoProxy) | Custom proxy tool for traffic analysis and interception | Go | 📅 Planned |
+| [CiberFeed](https://github.com/frank1224/Feed_Noticias_Ciber_Go) | Cybersecurity news feed aggregator with authentication and session management | Go, Chi, PostgreSQL, Docker | ✅ |
+| [GoProxy](https://github.com/frank1224/GoProxy) | Custom proxy tool for traffic analysis and interception | Go | 🔄 In Progress  |
 
 ### 🏴‍☠️ CTF Writeups
 
@@ -92,6 +92,7 @@
 | eJPT (eLearnSecurity Junior Penetration Tester) | ✅ |
 | BSCP (Burp Suite Certified Practitioner) | 📅 Planned |
 | CWES (HTB Certified Web Exploitation Specialist) | 📅 Planned |
+| eMAPT (Mobile Application Penetration Tester) | 📅 Planned |
 
 ---
 
